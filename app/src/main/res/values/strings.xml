@@ -1,0 +1,17 @@
+<resources>
+    <string name="HarisApp">Explicit</string>
+    <string name="button_website">BUKA WEBSITE</string>
+    <string name="button_location">BUKA MAP</string>
+    <string name="button_share">BAGIKAN TEKS</string>
+    <string name="edit_website">http://developer.android.com</string>
+    <string name="edit_location">Universitas Teknologi Bandung</string>
+    <string name="edit_share">Ini text yang akan dishare</string>
+    <string name="hint_send">Masukkan pesan</string>
+    <string name="btn_pindah">KIRIM PESAN</string>
+    <string name="btn_back">Back</string>
+    <string name="title_website">Buka Website</string>
+    <string name="title_location">Buka Lokasi</string>
+    <string name="title_share">Bagikan Teks</string>
+    <string name="title_second">Kirim Ke Aktivitas Kedua</string>
+    <string name="message_from_main">Pesan dari Main Activity</string>
+</resources>
